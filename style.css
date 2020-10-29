@@ -1,0 +1,117 @@
+@font-face{
+  font-family: "piña";
+  src: url("piña.TTF");
+}
+
+@font-face{
+  font-family: "Pineapple_font";
+  src: url("PineappleDemo.ttf");
+
+}
+@font-face{
+  font-family: "fontFree";
+  src: url("Font-awsome-free.otf");
+
+}
+@font-face{
+  font-family: "fontBrand";
+  src: url("Font-awsome-regular.otf");
+
+}
+
+.c1{
+  border-style: solid;
+  border-color: white;
+  background-color: #94d6ba;
+  text-align: center;
+}
+
+.r{
+  border-style: solid;
+  border-color: #df332a;
+}
+
+.productos{
+  border-style: solid;
+  border-color: black;
+}
+
+.titulo{
+  font-family: fontFree;
+  /* margin-left: 40px; */
+  color: #df332a;
+  text-align: center;
+}
+button{
+  text-align: center;
+}
+#i{
+  font-family: fontBrand;
+}
+#brand{
+  background-color: #white;
+  color: #df332a;
+}
+p{
+  color: #btn btn-outline-danger;
+}
+.tit{
+  color: #df332a;
+}
+
+i{
+  font-family: fontFree;
+
+}
+#col6{
+  background-color: #94d6ba;
+  border-style: solid;
+  border-radius: 1px 8px 8px;
+  border-color:#94d6ba;
+}
+#col5,#col1,#col2,#col3,#col4{
+  background-color: #94d6ba;
+}
+
+#col8{
+  background-color: white;
+}
+@font-face{
+  font-family: "openBold";
+  src: url("OpenSans-Bold.ttf");
+
+}
+@font-face{
+  font-family: "openRegular";
+  src: url("OpenSans-Regular.ttf");
+
+}
+@font-face{
+  font-family: "openSemiBold";
+  src: url("OpenSans-SemiBold.ttf");
+
+}
+#brand{
+  font-family: Pineapple_font;
+  text-align: center;
+  font-size: 60px;
+}
+
+span{
+font-family: piña;
+font-size: 70px;
+}
+#h5{
+  font-size: 23px;
+  font-family: openSemiBold;
+}
+p{
+  font-family: openRegular;
+  font-size: 16px;
+}
+#carrito{
+  background-color: #00a8cc;
+  border-style:solid;
+  border-radius: 7px;
+  border-color: #00a8cc;
+}
